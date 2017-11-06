@@ -5,7 +5,8 @@
 #   E-mail  :   hwguo1988@gmail.com
 #   Date    :   17/11/06 23:32:17
 #   Desc    :   
-#
+#   Copyright (c) : http://blog.csdn.net/handsomekang/article/details/41446319
+# 
 
 class Trie:
     """ Trie tree python implementation
