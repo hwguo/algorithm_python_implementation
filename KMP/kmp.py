@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 #
 #   Author  :   henry
-#   E-mail  :   gzguohongwei@corp.netease.com
+#   E-mail  :   hwguo1988@gmail.com
 #   Date    :   17/10/28 21:20:40
 #   Desc    :   
 #
